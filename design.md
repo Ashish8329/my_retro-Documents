@@ -1,8 +1,8 @@
-# Design Document: Restaurant Intelligence Platform
+# Design Document: My_restro - Restaurant Intelligence Platform
 
 ## Overview
 
-The Restaurant Intelligence Platform is an AI-powered system that transforms restaurant operations through data-driven insights, automation, and customer engagement. The platform addresses critical challenges in the restaurant industry including food waste, inventory management, customer experience, and operational efficiency.
+The  My_restro a Restaurant Intelligence Platform is an AI-powered system that transforms restaurant operations through data-driven insights, automation, and customer engagement. The platform addresses critical challenges in the restaurant industry including food waste, inventory management, customer experience, and operational efficiency.
 
 ### Core Value Propositions
 
@@ -1531,4 +1531,5 @@ Both approaches are complementary and necessary. Unit tests catch concrete bugs 
 - API Testing: Supertest, postman
 - Load Testing: k6 or Artillery
 - Database Testing: Testcontainers for isolated environments
+
 
