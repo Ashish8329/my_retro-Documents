@@ -1,4 +1,4 @@
-# Requirements Document
+# Requirements Document - my_restro
 
 ## Introduction
 
@@ -224,5 +224,6 @@ But they don’t know which restaurant has it
 3. THE System SHALL implement rate limiting to prevent brute force attacks
 4. THE System SHALL provide audit logs of all data access and modifications
 5. THE System SHALL allow customers to request deletion of their personal data in compliance with privacy regulations
+
 
 based on all our requirements, our system will provide comprehensive intelligence to restaurants to optimize operational efficiency, manage their restaurant effectively, track revenue in real-time, reduce food waste through smart surplus management, and market to customers with targeted real-time push notifications. The platform transforms restaurant operations from manual and reactive to automated and data-driven, helping owners make informed decisions that improve profitability while reducing environmental impact. 
