@@ -1,51 +1,49 @@
-# Requirements Document - my_restro
+# Requirements Document - My_restro
 
 ## Introduction
 
-This document specifies the requirements for an AI-powered restaurant intelligence and demand optimization platform. The system enables restaurants to reduce food waste, optimize inventory, and improve profitability through data-driven insights. It provides QR-based digital menus for customers, collects order data, predicts demand using forecasting models, and delivers actionable recommendations to restaurant staff based on their roles.
+This document specifies the requirements for an My_restro an AI-powered restaurant intelligence and demand optimization platform. The system enables restaurants to reduce food waste, optimize inventory, and improve profitability through data-driven insights. It provides QR-based digital menus for customers, collects order data, predicts demand using forecasting models, and delivers actionable recommendations to restaurant staff based on their roles.
 
-🚨 The Problem
-Restaurants struggle with:
-Manual operations
-Printed menu cards (hard to update, costly)
-Customers waiting for waiters to take orders
-Staff dependency for basic tasks
-
-
-Poor demand visibility
-Owners don’t clearly know which items sell more daily/weekly/monthly
-Difficulty managing stock and predicting demand
-Revenue tracking is often not optimized
+## 🚨 The Problem
+### Restaurants struggle with:
+- Manual operations
+- Printed menu cards (hard to update, costly)
+- Customers waiting for waiters to take orders
+- Staff dependency for basic tasks
 
 
-Marketing inefficiency
-Restaurants lack direct communication with customers
-No smart way to send targeted offers
+### Poor demand visibility
+- Owners don’t clearly know which items sell more daily/weekly/monthly
+- Difficulty managing stock and predicting demand
+- Revenue tracking is often not optimized
 
 
-Food waste problem
- Large amount of edible food is wasted (especially pre-consumer waste)
-No system to quickly sell or donate leftover food
-👤 Customer Problems (Very Important)
-Waiting Time
-Waiting for waiter to bring menu
-Waiting to place order
-Waiting for bill
+### Marketing inefficiency
+- Restaurants lack direct communication with customers
+- No smart way to send targeted offers
+
+### Food waste problem
+- Large amount of edible food is wasted (especially pre-consumer waste)
+- No system to quickly sell or donate leftover food
 
 
-Confusing Menus
-No proper descriptions
-No clear images
-Hard to understand ingredients or pricing
+## 👤 Customer Problems (Very Important)
+- Waiting Time
+- Waiting for waiter to bring menu
+= Waiting to place order
+- Waiting for bill
 
+### Confusing Menus
+- No proper descriptions
+- No clear images
+- Hard to understand ingredients or pricing
 
-No Visibility of Offers
-Customers don’t know about discounts or special deals nearby
+### No Visibility of Offers
+- Customers don’t know about discounts or special deals nearby
 
-
-No Access to Surplus Food Deals
-Many people would buy discounted edible food
-But they don’t know which restaurant has it
+### No Access to Surplus Food Deals or wastage of good quality food
+- Many people would buy discounted edible food
+- But they don’t know which restaurant has it
 
 
 ## Glossary
@@ -225,5 +223,7 @@ But they don’t know which restaurant has it
 4. THE System SHALL provide audit logs of all data access and modifications
 5. THE System SHALL allow customers to request deletion of their personal data in compliance with privacy regulations
 
+--------------------------------------------------------X-X-----------------------------------------------------------
 
-based on all our requirements, our system will provide comprehensive intelligence to restaurants to optimize operational efficiency, manage their restaurant effectively, track revenue in real-time, reduce food waste through smart surplus management, and market to customers with targeted real-time push notifications. The platform transforms restaurant operations from manual and reactive to automated and data-driven, helping owners make informed decisions that improve profitability while reducing environmental impact. 
+Based on all our requirements, our system will provide comprehensive intelligence to restaurants to optimize operational efficiency, manage their restaurant effectively, track revenue in real-time, reduce food waste through smart surplus management, and market to customers with targeted real-time push notifications. The platform transforms restaurant operations from manual and reactive to automated and data-driven, helping owners make informed decisions that improve profitability while reducing environmental impact. 
+
